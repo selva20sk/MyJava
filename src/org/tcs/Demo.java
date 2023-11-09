@@ -2,8 +2,11 @@ package org.tcs;
 
 public class Demo {
 
-	public static void main( String[]args ) {
+	public void Aa () {
 		
 		System.out.println("name");
+		
 	}
-}
+			public void Bb() {
+	
+	}}
